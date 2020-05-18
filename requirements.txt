@@ -4,12 +4,9 @@ pillow<7
 packaging
 ipywidgets==7.5.1
 jupyter
-pytorch
-torchvision>=0.5
 matplotlib
 pandas
 requests
-pyyaml
 fastprogress>=0.1.22
 scikit-learn
 scipy
