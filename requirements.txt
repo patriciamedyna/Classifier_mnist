@@ -11,7 +11,7 @@ pandas
 requests
 pyyaml
 fastprogress>=0.1.22
-python>=3.6
+python
 pip
 scikit-learn
 scipy
